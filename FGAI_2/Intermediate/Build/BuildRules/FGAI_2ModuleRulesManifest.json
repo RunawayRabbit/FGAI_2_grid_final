@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"C:\\FGAI_2_grid_final\\FGAI_2\\Source\\FGAI_2\\FGAI_2.Build.cs",
+		"C:\\FGAI_2_grid_final\\FGAI_2\\Source\\FGAI_2Editor\\FGAI_2Editor.Build.cs",
+		"C:\\FGAI_2_grid_final\\FGAI_2\\Source\\FGAI_2.Target.cs",
+		"C:\\FGAI_2_grid_final\\FGAI_2\\Source\\FGAI_2Editor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}

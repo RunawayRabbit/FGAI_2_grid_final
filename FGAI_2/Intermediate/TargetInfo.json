@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FGAI_2",
+			"Path": "C:\\FGAI_2_grid_final\\FGAI_2\\Source\\FGAI_2.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FGAI_2Editor",
+			"Path": "C:\\FGAI_2_grid_final\\FGAI_2\\Source\\FGAI_2Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
